@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=98a36cfd_002Ddf82_002D4224_002D861b_002D5a6ed943f1ad/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="get_previsao_tempo_com_sucesso" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::214E4914-CB11-45A0-9B69-10DA6635D2E1::net6.0::TestProject1.WeatherForecastControllerTest.get_previsao_tempo_com_sucesso&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::214E4914-CB11-45A0-9B69-10DA6635D2E1::net6.0::TestProject1.WeatherForecastControllerTest.get_previsao_tempo_com_falha&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::214E4914-CB11-45A0-9B69-10DA6635D2E1::net6.0::TestProject1.WeatherForecastControllerTest.get_previsao_tempo_com_falha_quantidade&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
